@@ -1,0 +1,36 @@
+[submodule "erposfnb-be-account"]
+	path = erposfnb-be-account
+	url = git@github.com:prothegee/erposfnb-be-account.git
+[submodule "erposfnb-be-gateway"]
+	path = erposfnb-be-gateway
+	url = git@github.com:prothegee/erposfnb-be-gateway.git
+[submodule "erposfnb-be-gateway_stream"]
+	path = erposfnb-be-gateway_stream
+	url = git@github.com:prothegee/erposfnb-be-gateway_stream.git
+[submodule "erposfnb-be-media"]
+	path = erposfnb-be-media
+	url = git@github.com:prothegee/erposfnb-be-media.git
+[submodule "erposfnb-be-pos"]
+	path = erposfnb-be-pos
+	url = git@github.com:prothegee/erposfnb-be-pos.git
+[submodule "erposfnb-be-tenant"]
+	path = erposfnb-be-tenant
+	url = git@github.com:prothegee/erposfnb-be-tenant.git
+[submodule "erposfnb-be-warehouse"]
+	path = erposfnb-be-warehouse
+	url = git@github.com:prothegee/erposfnb-be-warehouse.git
+[submodule "erposfnb-fe-core_web"]
+	path = erposfnb-fe-core_web
+	url = git@github.com:prothegee/erposfnb-fe-core_web.git
+[submodule "erposfnb-fe-erp_web"]
+	path = erposfnb-fe-erp_web
+	url = git@github.com:prothegee/erposfnb-fe-erp_web.git
+[submodule "erposfnb-fe-pos_customer_web"]
+	path = erposfnb-fe-pos_customer_web
+	url = git@github.com:prothegee/erposfnb-fe-pos_customer_web.git
+[submodule "erposfnb-fe-pos_tenant_web"]
+	path = erposfnb-fe-pos_tenant_web
+	url = git@github.com:prothegee/erposfnb-fe-pos_tenant_web.git
+[submodule "erposfnb-protobuf"]
+	path = erposfnb-protobuf
+	url = git@github.com:prothegee/erposfnb-protobuf.git
